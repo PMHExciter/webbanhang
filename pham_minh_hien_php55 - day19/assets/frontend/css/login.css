@@ -1,0 +1,61 @@
+.template-customer{
+	width: 500px;
+	margin-left: 50px;
+	font-family: sans-serif;
+}
+.template-customer p{
+	margin: 5px;
+	text-align: center;
+}
+.template-customer h1{
+	margin: 5px;
+	text-align: center
+}
+.row .wrapper-form{
+	border: 1px solid gray;
+	margin: 0px;
+	padding: 10px;
+}
+.row .wrapper-form .title{
+	font-size: 20px;
+	font-weight: bold;
+}
+.row .wrapper-form .form-group{
+	padding: 10px;
+}
+.row .wrapper-form .form-group label b{
+	color: red;
+}
+.row .wrapper-form .form-group label{
+	font-size: 14px;
+	display: block;
+	margin: 5px;
+}
+.row .wrapper-form .form-group input{
+	width: 250px;
+	height: 30px;	
+}
+.row .wrapper-form .form-group .email{
+	margin-right: 22px;
+}
+.template-customer .wrapper-form{
+	padding: 15px;
+	margin: 15px;
+}
+.template-customer .wrapper-form .button{
+	margin-left: 10px;
+	padding: 7px;
+	background: lightblue;
+}
+.template-customer .wrapper-form .button:hover{
+	background: skyblue;
+}
+.template-customer .wrapper-form a {
+	margin-left: 10px;
+	padding: 7px;
+	text-decoration: none;
+	color: black;
+	background: lightblue;
+	border: 2px solid grey;
+	margin-bottom: 15px;
+}
